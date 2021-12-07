@@ -23,11 +23,7 @@ Operation System Paging Stimulation.
 
 <br><br>
 # Team
-1. Nutsuda Ploysopond (Earn):
-    [1.1]:https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn
-    [1]:https://www.linkedin.com/in/nutsuda-ploysopond-6ab46120a/
-    [![alt text][1.1]][1]
-    
+1. Nutsuda Ploysopond (Earn): https://github.com/EarnNutsuda
 2. Onsucha Sriboonchaichusakul (Cher): Cher_onsucha@hotmail.com 
 
 
