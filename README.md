@@ -3,8 +3,8 @@ Operation System Paging Stimulation.
 
 <br><br>
 ## This program is divided into two parts: 
-1.Page and Frame Size Calculator 
-2.Modify and Retrieve Data Stimulation
+1. Page and Frame Size Calculator 
+2. Modify and Retrieve Data Stimulation
 
 <br><br>
 ### Part 1: Page and Frame Size Calculator 
@@ -21,11 +21,11 @@ Operation System Paging Stimulation.
 - In modify mode, user can input logical address in decimal and new data that will be put into the address.
 “assets/demo_modity.png ”
 
-
-#Team
+<br><br>
+# Team
 1. Nutsuda Ploysopond (Earn):
-    <a href=”https://www.linkedin.com/in/nutsuda-ploysopond-6ab46120a/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-3. Onsucha Sriboonchaichusakul (Cher): 
+    <a href=”https://www.linkedin.com/in/nutsuda-ploysopond-6ab46120a/"><img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
+2. Onsucha Sriboonchaichusakul (Cher): 
     Contact:
     Cher_onsucha@hotmail.com 
 
