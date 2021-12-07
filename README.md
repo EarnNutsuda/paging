@@ -19,7 +19,7 @@ Operation System Paging Stimulation.
 - In retrieve mode, user can input logical address in decimal, then the program will return the data according to the address.
 <img src=assets/retrieve.png>
 - In modify mode, user can input logical address in decimal and new data that will be put into the address.
-<img src=assets/modity.png>
+<img src=assets/modify.png>
 
 <br><br>
 # Team
