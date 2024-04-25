@@ -1,4 +1,4 @@
-# Paging Stimulation
+# Paging Simulation
 Operation System Paging Stimulation.
 
 <br><br>
@@ -14,7 +14,7 @@ Operation System Paging Stimulation.
 <img src=assets/calculator.png>
 
 <br><br>
-### Part 2: Modify and Retrieve Data Stimulation
+### Part 2: Modify and Retrieve Data Simulation
 - In this part, user can choose to do either modify or retrieve data.
 - In retrieve mode, user can input logical address in decimal, then the program will return the data according to the address.
 <img src=assets/retrieve.png>
