@@ -1,5 +1,5 @@
 # Paging Simulation
-Operation System Paging Stimulation.
+Operation System Paging Simulation.
 
 <br><br>
 ## This program is divided into two parts: 
